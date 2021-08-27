@@ -1,0 +1,11 @@
+{
+  "name": "weatherproj",
+  "version": "1.0.0",
+  "description": "acts as server to get data from api and send it to browser",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
